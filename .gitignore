@@ -1,0 +1,24 @@
+# Python/virtual env
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.jupyter_config/
+.jupyter_data/
+.jupyter_runtime/
+
+# IDE
+.vscode/
+
+# Local caches/temp
+.pip-cache/
+.tmp/
+
+# Data and outputs (large artifacts)
+Data/
+Outputs/
+
+# OS
+Thumbs.db
+*.log
